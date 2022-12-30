@@ -1,2 +1,12 @@
-# airline
-Airline Reservation System (ARS)
+# Airline Reservation System (ARS)
+
+This is a project which illustrates Microservice Architecture for an Airline Reservation System.
+
+# Microservices
+
+- [Airline Reservation Service](https://github.com/techexcellenceio/airline-reservation)
+
+# Team
+
+- [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/) ([valentinacupac](https://github.com/valentinacupac)) - Organizer
+- [Stanislas Klukowski](https://www.linkedin.com/in/stanislas-klukowski-96431248/) ([stanKluk](https://github.com/stanKluk)) - [Airline Reservation Service](https://github.com/techexcellenceio/airline-reservation)
